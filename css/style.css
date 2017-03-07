@@ -1,0 +1,62 @@
+.body{
+  padding-bottom: 50px;
+  margin-left: 50px;
+}
+h1{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+h2{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  text-align: left;
+}
+p{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+}
+
+#nav{
+  border:1px solid black;
+  margin-right:auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  padding: 10px;
+
+  font-family: 'Quicksand', sans-serif;
+  font-size: 25px;
+
+  text-align: center;
+}
+
+.menuitemd{
+  margin-top: 10px;
+  font-size: 15px;
+}
+.menuitemtitle{
+  font-size: 20px;
+}
+.addinfo{
+  font-size: 15px;
+}
+.menuhead{
+  text-align: center;
+  padding-bottom: 20px
+}
+.container{
+  padding: 10px
+}
+.jumbotron {
+    position: relative;
+    background: #000 url("../images/mainbanner.jpg") center center;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    min-height: 300px;
+}
+.resize{
+   max-width:100%;
+   max-height:100%;
+}
